@@ -8,7 +8,7 @@ The overall goal of [GotBASIC.com](https://gotBASIC.com) is to be the **GOTO** (
 
 So please help me help everyone with this project; if you are aware of **BASIC**-related content floating around somewhere around on the web, please let me know.  If you are a product manufacturer of a product related to **BASIC**; please reach out to me so we can work with one another.  If you are working on a project using **BASIC**, please let me know so that I can help spread the word!
 
-And remember...
+And remember ...
 
 > You can please some of the people all of the time, you can please all of the people some of the time, but you can’t please all of the people all of the time. ― John Lydgate
 
